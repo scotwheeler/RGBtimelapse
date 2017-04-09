@@ -1,6 +1,6 @@
 # RGBtimelapse
 
-Timelapse Version 3.0 - Scot Wheeler
+A program in IGOR Pro to measure a timelapse using a connected webcam. Areas of the image can be selected and the RGB monitored over time. Designed to measure degredation of solar cell material films.  
 
 Before running:
 You need to create a shortcut in the IGOR User Files extensions folder (Help -> Show Igor Pro User Files) 
